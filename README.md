@@ -10,8 +10,10 @@ Um sistema simples mas completo de To-Do List desenvolvido em C para praticar ar
 - 🎯 IDs automáticos
 - 📱 Interface intuitiva no terminal
 
-🎯 Resumo Prático
-Biblioteca	Para que serve no projeto
+🎯 Resumo Prático:
+
+Biblioteca	Para que serve no projeto:
+
 stdio.h	Entrada/saída: mostrar menus, ler comandos, salvar/ler arquivos
 string.h	Manipular textos: limpar o \n do título, comparar palavras
 stdlib.h	Utilidades: NULL, system(), malloc(), funções de conversã
